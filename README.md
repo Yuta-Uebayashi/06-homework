@@ -17,8 +17,6 @@ Covers basic pandas skills such as:
 - Splitting data by category (cats/dogs)
 - Visualization with bar graphs and histograms
 
-📄 File: `animals_homework.ipynb`
-
 ---
 
 ### 2. 💰 **Billionaire Dataset Practice**
@@ -30,7 +28,5 @@ Tasks include:
 - Using `groupby` for aggregation
 - Visualizing with scatter plots, bar charts, and histograms
 - Investigating the distribution of age, wealth, and origin
-
-📄 File: `billionaires_homework.ipynb`
 
 ---
