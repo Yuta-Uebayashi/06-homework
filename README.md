@@ -1,6 +1,6 @@
 #  Lede Program Homework06: Pandas and GitHub
 
-This repository contains two completed assignments for Day 6 of the Lede Program, focusing on data analysis using Pandas in Python.
+This repository contains projects completed on Day 6 of the Lede Program.  Using Python's pandas library, I explored and analyzed data through hands-on exercises.
 
 ---
 
